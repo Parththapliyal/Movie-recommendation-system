@@ -190,13 +190,3 @@ This project implements a **Movie Recommendation System** using **Content-Based 
 
 ---
 
-This Markdown is ready to be copied into your `README.md` file on GitHub. Let me know if you’d like to refine it further!
-
-
----
-
-## ⚙️ **Future Enhancements**
-- Incorporate **Collaborative Filtering** to consider user preferences.
-- Add features like ratings and reviews to improve recommendations.
-- Deploy the system as a web application using **Flask** or **Streamlit**.
-
