@@ -177,9 +177,9 @@ This project implements a **Movie Recommendation System** using **Content-Based 
 
 ---
 
-## 📁 **Project Files**
-- 📂 **pdf:**-https://github.com/Parththapliyal/Movie-recommendation-system/blob/main/Movie%20recommendation%20system.pdf
-- **jupyter notebook** - https://github.com/Parththapliyal/Movie-recommendation-system/blob/main/movie%20recommendation%20system.ipynb
+ **Project Files**
+-  **pdf:**- https://github.com/Parththapliyal/Movie-recommendation-system/blob/main/Movie%20recommendation%20system.pdf
+- **jupyter notebook** -  https://github.com/Parththapliyal/Movie-recommendation-system/blob/main/movie%20recommendation%20system.ipynb
   - 
 ---
 
